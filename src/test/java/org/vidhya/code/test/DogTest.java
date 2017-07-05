@@ -1,4 +1,4 @@
-package org.vidhya.code.classes.test;
+package org.vidhya.code.test;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
